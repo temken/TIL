@@ -12,3 +12,7 @@ Today I learned...
 ### Rust
 - [Start a new Rust project with cargo](rust/start_new_project.md)
 - [Install Rust on Mac](rust/install_rust.md)
+
+### Travis CI
+
+- [Check the syntax of a travis build script](travis/check_script.md)
