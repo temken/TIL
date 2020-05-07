@@ -5,6 +5,8 @@ Inspired by [https://github.com/bast/til](https://github.com/bast/til).
 Today I learned...
 
 ---
+### Git
+- [Modify the most recent git commit](git/modify_recent_commit.md)
 
 ### Markdown
 - [Use syntax highlighting in Markdown](markdown/use_syntax_highlighting.md)
