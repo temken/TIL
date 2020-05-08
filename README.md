@@ -7,6 +7,7 @@ Today I learned...
 ---
 ### Git
 - [Modify the most recent git commit](git/modify_recent_commit.md)
+- [Undo the most recent git commit](git/undo_recent_commit.md)
 
 ### Markdown
 - [Use syntax highlighting in Markdown](markdown/use_syntax_highlighting.md)
