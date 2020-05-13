@@ -10,6 +10,7 @@ Today I learned...
 - [Handle the include path of an imported library](cmake/add_include_folder_for_library.md)
 
 ### Git
+- [Create a global, machine-specific .gitignore file for all repositories](git/global_gitignore.md)
 - [Modify the most recent git commit](git/modify_recent_commit.md)
 - [Undo the most recent git commit](git/undo_recent_commit.md)
 
