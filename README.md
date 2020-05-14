@@ -7,7 +7,8 @@ Today I learned...
 ---
 
 ### CMake
-- [Handle the include path of an imported library](cmake/add_include_folder_for_library.md)
+- [Define a target-specific macro](cmake/define_target_specific_macro.md)
+- [Pass on the include path of a library](cmake/pass_on_include_folder_of_library.md)
 
 ### Git
 - [Create a global, machine-specific .gitignore file for all repositories](git/global_gitignore.md)

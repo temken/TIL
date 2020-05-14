@@ -1,14 +1,14 @@
-# Handle the include path of an imported library
+# Pass on the include path of a library
 
 Say we are building a library via
 
-```CMake
+```cmake
 add_library(library <SOURCES>)
 ```
 
 and we want to build e.g. another executable that uses this library (could also be in a different project that imports this library.)
 
-```CMake
+```cmake
 add_executable(exec <SOURCES>)
 target_link_library(exec PRIVATE library)
 ```
@@ -16,7 +16,7 @@ target_link_library(exec PRIVATE library)
 While this links the library correctly, it might be unknown where the library header files of *library* are located.
 To specify the path of the library's header files directly, adjust the first code block by adding one line:
 
-```CMake
+```cmake
 add_library(library <SOURCES>)
 target_include_directories(library PUBLIC ${INCLUDE_DIR})
 ```
