@@ -8,6 +8,7 @@ Today I learned...
 
 ### CMake
 - [Define a target-specific macro](cmake/define_target_specific_macro.md)
+- [Generate a header file with git info and directory macros using CMake](cmake/generate_header_file_with_macros.md)
 - [Pass on the include path of a library](cmake/pass_on_include_folder_of_library.md)
 
 ### Git
