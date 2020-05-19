@@ -14,6 +14,8 @@ Today I learned...
 ### Git
 - [Create a global, machine-specific .gitignore file for all repositories](git/global_gitignore.md)
 - [Modify the most recent git commit](git/modify_recent_commit.md)
+<!-- - [Set up a short-cut for a url](git/shortcut_url.md) -->
+- [Revert (and save) uncommited changes](git/revert_uncommited_changes.md)
 - [Undo the most recent git commit](git/undo_recent_commit.md)
 
 ### Markdown
