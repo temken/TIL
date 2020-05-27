@@ -11,6 +11,9 @@ Today I learned...
 - [Generate a header file with git info and directory macros using CMake](cmake/generate_header_file_with_macros.md)
 - [Pass on the include path of a library](cmake/pass_on_include_folder_of_library.md)
 
+### C++
+- [Automatically format c++ code using custom rules with *clang-format*](cpp/use_clang-format.md)
+
 ### Git
 - [Create a global, machine-specific .gitignore file for all repositories](git/global_gitignore.md)
 - [Modify the most recent git commit](git/modify_recent_commit.md)
