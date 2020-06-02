@@ -14,6 +14,7 @@ Today I learned...
 
 ### C++
 - [Automatically format c++ code using custom rules with *clang-format*](cpp/use_clang-format.md)
+- [Iterate over a list with a ```for``` loop](cpp/iterate_over_list.md)
 
 ### Git
 - [Create a global, machine-specific .gitignore file for all repositories](git/global_gitignore.md)
