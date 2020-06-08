@@ -14,6 +14,7 @@ Today I learned...
 
 ### C++
 - [Automatically format c++ code using custom rules with *clang-format*](cpp/use_clang-format.md)
+- [Fix the seed of a pseudo-random number generator](cpp/fix_prng_seed.md)
 - [Iterate over a list with a ```for``` loop](cpp/iterate_over_list.md)
 
 ### Git
