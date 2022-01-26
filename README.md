@@ -19,6 +19,7 @@ Today I learned...
 
 ### Git
 - [Create a global, machine-specific .gitignore file for all repositories](git/global_gitignore.md)
+- [Create a new branch locally and push to remote](git/create_new_branch_locally.md)
 - [Modify the most recent git commit](git/modify_recent_commit.md)
 - [Rename a branch](git/rename_branch.md)
 - [Rename a repository](git/rename_repository.md)
