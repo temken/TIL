@@ -1,10 +1,13 @@
-#  :computer: TIL 
+#  :computer: TIL
 
 Inspired by [https://github.com/bast/til](https://github.com/bast/til).
 
 Today I learned...
 
 ---
+
+### Shell
+- [Append a text file from the terminal](bash/append_a_file.md)
 
 ### CMake
 - [Define a target-specific macro](cmake/define_target_specific_macro.md)
