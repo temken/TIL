@@ -21,6 +21,7 @@ Today I learned...
 - [Iterate over a list with a ```for``` loop](cpp/iterate_over_list.md)
 
 ### Git
+- [Add commits to a pull-request from another user's fork](git/add_commits_to_fork_PR.md)
 - [Create a global, machine-specific .gitignore file for all repositories](git/global_gitignore.md)
 - [Create a new branch locally and push to remote](git/create_new_branch_locally.md)
 - [Fix up a recent commit with ```-fixup``` and ```-autosquash```](git/fix_up_a_recent_commit.md)
